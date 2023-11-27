@@ -1,0 +1,973 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Juana Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/touringxx.com\/wptemplatekits",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/touringxx.com\/wptemplatekits\/newjuana\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/touringxx.com\/wptemplatekits\/newjuana\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/touringxx.com\/wptemplatekits\/newjuana\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQS",
+            "screenshot": "screenshots\/faqs.jpg",
+            "source": "templates\/faqs.json",
+            "preview_url": "https:\/\/touringxx.com\/wptemplatekits\/newjuana\/template-kit\/faqs\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Lookbook",
+            "screenshot": "screenshots\/lookbook.jpg",
+            "source": "templates\/lookbook.json",
+            "preview_url": "https:\/\/touringxx.com\/wptemplatekits\/newjuana\/template-kit\/lookbook\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/touringxx.com\/wptemplatekits\/newjuana\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "History",
+            "screenshot": "screenshots\/history.jpg",
+            "source": "templates\/history.json",
+            "preview_url": "https:\/\/touringxx.com\/wptemplatekits\/newjuana\/template-kit\/history\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/touringxx.com\/wptemplatekits\/newjuana\/template-kit\/blog\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Shop",
+            "screenshot": "screenshots\/shop.jpg",
+            "source": "templates\/shop.json",
+            "preview_url": "https:\/\/touringxx.com\/wptemplatekits\/newjuana\/template-kit\/shop\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-product",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/touringxx.com\/wptemplatekits\/newjuana\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/touringxx.com\/wptemplatekits\/newjuana\/template-kit\/single-post\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Product",
+            "screenshot": "screenshots\/single-product.jpg",
+            "source": "templates\/single-product.json",
+            "preview_url": "https:\/\/touringxx.com\/wptemplatekits\/newjuana\/template-kit\/single-product\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-product",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Product Quick View",
+            "screenshot": "screenshots\/product-quick-view.jpg",
+            "source": "templates\/product-quick-view.json",
+            "preview_url": "https:\/\/touringxx.com\/wptemplatekits\/newjuana\/template-kit\/quick-view-product\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-product",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header Section",
+            "screenshot": "screenshots\/header-section.jpg",
+            "source": "templates\/header-section.json",
+            "preview_url": "https:\/\/touringxx.com\/wptemplatekits\/newjuana\/template-kit\/header-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer Section",
+            "screenshot": "screenshots\/footer-section.jpg",
+            "source": "templates\/footer-section.json",
+            "preview_url": "https:\/\/touringxx.com\/wptemplatekits\/newjuana\/template-kit\/footer-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "MetForm Contact",
+            "screenshot": "screenshots\/metform-contact.jpg",
+            "source": "templates\/metform-contact.json",
+            "preview_url": "https:\/\/touringxx.com\/wptemplatekits\/newjuana\/template-kit\/metform-contact\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.6.1",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Header & Footer Builder",
+            "version": "1.6.10",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        },
+        {
+            "name": "Jeg Elementor Kit",
+            "version": "2.4.0",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "Jegstudio"
+        },
+        {
+            "name": "MetForm",
+            "version": "2.1.5",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Premium Addons for Elementor",
+            "version": "4.9.4",
+            "file": "premium-addons-for-elementor\/premium-addons-for-elementor.php",
+            "author": "Leap13"
+        },
+        {
+            "name": "ShopEngine",
+            "version": "2.2.1",
+            "file": "shopengine\/shopengine.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "WooCommerce",
+            "version": "6.3.1",
+            "file": "woocommerce\/woocommerce.php",
+            "author": "Automattic"
+        }
+    ],
+    "images": [
+        {
+            "filename": "Home-main-image-1.jpg",
+            "thumbnail_url": "https:\/\/touringxx.com\/wptemplatekits\/newjuana\/wp-content\/uploads\/sites\/15\/2022\/02\/Home-main-image-1-800x593.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 103028,
+            "dimensions": [
+                1920,
+                1423
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/green-leaf-painting-573294\/"
+        },
+        {
+            "filename": "Home-arrow.png",
+            "thumbnail_url": "https:\/\/touringxx.com\/wptemplatekits\/newjuana\/wp-content\/uploads\/sites\/15\/2022\/02\/Home-arrow.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 11311,
+            "dimensions": [
+                351,
+                351
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Home-about-us-image-1.jpg",
+            "thumbnail_url": "https:\/\/touringxx.com\/wptemplatekits\/newjuana\/wp-content\/uploads\/sites\/15\/2022\/02\/Home-about-us-image-1-800x1063.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 70493,
+            "dimensions": [
+                896,
+                1191
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/close-up-photo-of-red-flowers-2775184\/"
+        },
+        {
+            "filename": "Home-service-image.jpg",
+            "thumbnail_url": "https:\/\/touringxx.com\/wptemplatekits\/newjuana\/wp-content\/uploads\/sites\/15\/2022\/02\/Home-service-image-800x1234.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 302365,
+            "dimensions": [
+                1000,
+                1543
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/woman-in-black-one-piece-swimsuit-sitting-on-wooden-dock-8622919\/"
+        },
+        {
+            "filename": "Home-service-image-2.jpg",
+            "thumbnail_url": "https:\/\/touringxx.com\/wptemplatekits\/newjuana\/wp-content\/uploads\/sites\/15\/2022\/02\/Home-service-image-2-800x1193.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 145339,
+            "dimensions": [
+                1000,
+                1491
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/black-and-red-floral-textile-1821721\/"
+        },
+        {
+            "filename": "Home-shop.jpg",
+            "thumbnail_url": "https:\/\/touringxx.com\/wptemplatekits\/newjuana\/wp-content\/uploads\/sites\/15\/2022\/02\/Home-shop-800x1055.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 102005,
+            "dimensions": [
+                900,
+                1187
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/backview-of-a-woman-8598553\/"
+        },
+        {
+            "filename": "About-header.jpg",
+            "thumbnail_url": "https:\/\/touringxx.com\/wptemplatekits\/newjuana\/wp-content\/uploads\/sites\/15\/2022\/02\/About-header-800x508.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 120107,
+            "dimensions": [
+                1920,
+                1220
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/snow-wood-dawn-landscape-7030176\/"
+        },
+        {
+            "filename": "About-header-2.jpg",
+            "thumbnail_url": "https:\/\/touringxx.com\/wptemplatekits\/newjuana\/wp-content\/uploads\/sites\/15\/2022\/02\/About-header-2-800x804.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 163809,
+            "dimensions": [
+                1200,
+                1206
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/woman-in-white-long-sleeve-dress-holding-bouquet-of-flowers-3769614\/"
+        },
+        {
+            "filename": "About-right-image-7.jpg",
+            "thumbnail_url": "https:\/\/touringxx.com\/wptemplatekits\/newjuana\/wp-content\/uploads\/sites\/15\/2022\/02\/About-right-image-7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 115305,
+            "dimensions": [
+                800,
+                1199
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/stylish-ladies-embracing-on-beach-in-sunlight-7723769\/"
+        },
+        {
+            "filename": "About-bottom-image.jpg",
+            "thumbnail_url": "https:\/\/touringxx.com\/wptemplatekits\/newjuana\/wp-content\/uploads\/sites\/15\/2022\/02\/About-bottom-image-800x996.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 40003,
+            "dimensions": [
+                1100,
+                1369
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/photo-of-a-topless-woman-s-back-8591803\/"
+        },
+        {
+            "filename": "Service-Header.jpg",
+            "thumbnail_url": "https:\/\/touringxx.com\/wptemplatekits\/newjuana\/wp-content\/uploads\/sites\/15\/2022\/03\/Service-Header-800x414.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 348986,
+            "dimensions": [
+                1920,
+                994
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/wood-dawn-landscape-sunset-10012550\/"
+        },
+        {
+            "filename": "Service-right-image.jpg",
+            "thumbnail_url": "https:\/\/touringxx.com\/wptemplatekits\/newjuana\/wp-content\/uploads\/sites\/15\/2022\/03\/Service-right-image-800x1060.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 172061,
+            "dimensions": [
+                900,
+                1192
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/light-sunset-people-woman-9692810\/"
+        },
+        {
+            "filename": "Juana-Header-Image.jpg",
+            "thumbnail_url": "https:\/\/touringxx.com\/wptemplatekits\/newjuana\/wp-content\/uploads\/sites\/15\/2022\/03\/Juana-Header-Image-800x414.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQS"
+                }
+            ],
+            "filesize": 168759,
+            "dimensions": [
+                1920,
+                994
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/photo-of-person-using-laptop-for-graphic-designs-4348404\/"
+        },
+        {
+            "filename": "Lookbook-6.jpg",
+            "thumbnail_url": "https:\/\/touringxx.com\/wptemplatekits\/newjuana\/wp-content\/uploads\/sites\/15\/2022\/03\/Lookbook-6-800x608.jpg",
+            "templates": [
+                {
+                    "source": "templates\/lookbook.json",
+                    "name": "Lookbook"
+                }
+            ],
+            "filesize": 80092,
+            "dimensions": [
+                1400,
+                1064
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/a-woman-standing-on-a-cliff-of-a-mountain-near-body-of-water-9477142\/"
+        },
+        {
+            "filename": "Lookbook-11.jpg",
+            "thumbnail_url": "https:\/\/touringxx.com\/wptemplatekits\/newjuana\/wp-content\/uploads\/sites\/15\/2022\/03\/Lookbook-11-800x608.jpg",
+            "templates": [
+                {
+                    "source": "templates\/lookbook.json",
+                    "name": "Lookbook"
+                }
+            ],
+            "filesize": 332838,
+            "dimensions": [
+                1400,
+                1064
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/a-bride-in-wedding-gown-sitting-on-the-swing-9551816\/"
+        },
+        {
+            "filename": "Lookbook-5.jpg",
+            "thumbnail_url": "https:\/\/touringxx.com\/wptemplatekits\/newjuana\/wp-content\/uploads\/sites\/15\/2022\/03\/Lookbook-5-800x608.jpg",
+            "templates": [
+                {
+                    "source": "templates\/lookbook.json",
+                    "name": "Lookbook"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 153817,
+            "dimensions": [
+                1400,
+                1064
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/woman-in-red-sleeveless-dress-standing-in-front-of-gold-floral-wall-11001784\/"
+        },
+        {
+            "filename": "Lookbook-10.jpg",
+            "thumbnail_url": "https:\/\/touringxx.com\/wptemplatekits\/newjuana\/wp-content\/uploads\/sites\/15\/2022\/03\/Lookbook-10-800x608.jpg",
+            "templates": [
+                {
+                    "source": "templates\/lookbook.json",
+                    "name": "Lookbook"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 283571,
+            "dimensions": [
+                1400,
+                1064
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/rear-view-of-woman-in-dress-standing-on-grass-10163163\/"
+        },
+        {
+            "filename": "Lookbook-8-1.jpg",
+            "thumbnail_url": "https:\/\/touringxx.com\/wptemplatekits\/newjuana\/wp-content\/uploads\/sites\/15\/2022\/03\/Lookbook-8-1-800x608.jpg",
+            "templates": [
+                {
+                    "source": "templates\/lookbook.json",
+                    "name": "Lookbook"
+                }
+            ],
+            "filesize": 144283,
+            "dimensions": [
+                1400,
+                1064
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/artistic-image-with-woman-10116616\/"
+        },
+        {
+            "filename": "Lookbook-9.jpg",
+            "thumbnail_url": "https:\/\/touringxx.com\/wptemplatekits\/newjuana\/wp-content\/uploads\/sites\/15\/2022\/03\/Lookbook-9-800x608.jpg",
+            "templates": [
+                {
+                    "source": "templates\/lookbook.json",
+                    "name": "Lookbook"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 244789,
+            "dimensions": [
+                1400,
+                1064
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/woman-walking-in-autumn-forest-10390139\/"
+        },
+        {
+            "filename": "Lookbook-Image-1.jpg",
+            "thumbnail_url": "https:\/\/touringxx.com\/wptemplatekits\/newjuana\/wp-content\/uploads\/sites\/15\/2022\/03\/Lookbook-Image-1-800x608.jpg",
+            "templates": [
+                {
+                    "source": "templates\/lookbook.json",
+                    "name": "Lookbook"
+                }
+            ],
+            "filesize": 150874,
+            "dimensions": [
+                1400,
+                1064
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/young-female-covering-face-with-bouquet-of-flowers-in-dark-room-7693865\/"
+        },
+        {
+            "filename": "Lookbook-3.jpg",
+            "thumbnail_url": "https:\/\/touringxx.com\/wptemplatekits\/newjuana\/wp-content\/uploads\/sites\/15\/2022\/03\/Lookbook-3-800x608.jpg",
+            "templates": [
+                {
+                    "source": "templates\/lookbook.json",
+                    "name": "Lookbook"
+                }
+            ],
+            "filesize": 127272,
+            "dimensions": [
+                1400,
+                1064
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/woman-in-white-long-sleeve-dress-9156490\/"
+        },
+        {
+            "filename": "Lookbook-1.jpg",
+            "thumbnail_url": "https:\/\/touringxx.com\/wptemplatekits\/newjuana\/wp-content\/uploads\/sites\/15\/2022\/03\/Lookbook-1-800x608.jpg",
+            "templates": [
+                {
+                    "source": "templates\/lookbook.json",
+                    "name": "Lookbook"
+                }
+            ],
+            "filesize": 102267,
+            "dimensions": [
+                1400,
+                1064
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/a-woman-wearing-a-white-sheer-shirt-and-a-gray-skirt-sitting-on-the-stairs-9527343\/"
+        },
+        {
+            "filename": "Lookbook-2.jpg",
+            "thumbnail_url": "https:\/\/touringxx.com\/wptemplatekits\/newjuana\/wp-content\/uploads\/sites\/15\/2022\/03\/Lookbook-2-800x608.jpg",
+            "templates": [
+                {
+                    "source": "templates\/lookbook.json",
+                    "name": "Lookbook"
+                }
+            ],
+            "filesize": 150653,
+            "dimensions": [
+                1400,
+                1064
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/woman-in-white-dress-wearing-brown-hat-standing-near-brown-concrete-building-9225179\/"
+        },
+        {
+            "filename": "Lookbook-4.jpg",
+            "thumbnail_url": "https:\/\/touringxx.com\/wptemplatekits\/newjuana\/wp-content\/uploads\/sites\/15\/2022\/04\/Lookbook-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/lookbook.json",
+                    "name": "Lookbook"
+                }
+            ],
+            "filesize": 73600,
+            "dimensions": [
+                800,
+                608
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/woman-standing-near-body-of-water-2122358\/"
+        },
+        {
+            "filename": "Team-Header.jpg",
+            "thumbnail_url": "https:\/\/touringxx.com\/wptemplatekits\/newjuana\/wp-content\/uploads\/sites\/15\/2022\/03\/Team-Header-800x418.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 411502,
+            "dimensions": [
+                1920,
+                1004
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/photograph-of-blond-woman-on-promenade-by-river-10049568\/"
+        },
+        {
+            "filename": "Team-Director-Image.jpg",
+            "thumbnail_url": "https:\/\/touringxx.com\/wptemplatekits\/newjuana\/wp-content\/uploads\/sites\/15\/2022\/03\/Team-Director-Image-800x1091.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 153197,
+            "dimensions": [
+                981,
+                1338
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/woman-posing-in-dress-underwater-11252061\/"
+        },
+        {
+            "filename": "Team-Back-Image-1.jpg",
+            "thumbnail_url": "https:\/\/touringxx.com\/wptemplatekits\/newjuana\/wp-content\/uploads\/sites\/15\/2022\/03\/Team-Back-Image-1-800x832.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 76054,
+            "dimensions": [
+                1920,
+                1997
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/6979830\/"
+        },
+        {
+            "filename": "Team-Visionary-Minds.jpg",
+            "thumbnail_url": "https:\/\/touringxx.com\/wptemplatekits\/newjuana\/wp-content\/uploads\/sites\/15\/2022\/03\/Team-Visionary-Minds-800x1052.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 184722,
+            "dimensions": [
+                900,
+                1184
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/photo-of-person-standing-beside-barricade-1906879\/"
+        },
+        {
+            "filename": "History-header.jpg",
+            "thumbnail_url": "https:\/\/touringxx.com\/wptemplatekits\/newjuana\/wp-content\/uploads\/sites\/15\/2022\/03\/History-header-800x491.jpg",
+            "templates": [
+                {
+                    "source": "templates\/history.json",
+                    "name": "History"
+                }
+            ],
+            "filesize": 92632,
+            "dimensions": [
+                1920,
+                1179
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/grayscale-photo-of-woman-in-white-dress-standing-in-forest-9052723\/"
+        },
+        {
+            "filename": "History-left-image-1.jpg",
+            "thumbnail_url": "https:\/\/touringxx.com\/wptemplatekits\/newjuana\/wp-content\/uploads\/sites\/15\/2022\/03\/History-left-image-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/history.json",
+                    "name": "History"
+                }
+            ],
+            "filesize": 277128,
+            "dimensions": [
+                800,
+                1205
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/brown-leafless-trees-near-lake-10283629\/"
+        },
+        {
+            "filename": "History-right-image.jpg",
+            "thumbnail_url": "https:\/\/touringxx.com\/wptemplatekits\/newjuana\/wp-content\/uploads\/sites\/15\/2022\/03\/History-right-image.jpg",
+            "templates": [
+                {
+                    "source": "templates\/history.json",
+                    "name": "History"
+                }
+            ],
+            "filesize": 142361,
+            "dimensions": [
+                557,
+                743
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/red-car-on-gray-asphalt-road-8933036\/"
+        },
+        {
+            "filename": "History-bottom-image.jpg",
+            "thumbnail_url": "https:\/\/touringxx.com\/wptemplatekits\/newjuana\/wp-content\/uploads\/sites\/15\/2022\/03\/History-bottom-image-800x510.jpg",
+            "templates": [
+                {
+                    "source": "templates\/history.json",
+                    "name": "History"
+                }
+            ],
+            "filesize": 352037,
+            "dimensions": [
+                1920,
+                1225
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/japanese-autumn-leaves-on-a-wet-floor-10177081\/"
+        },
+        {
+            "filename": "Blog-Header-Image.jpg",
+            "thumbnail_url": "https:\/\/touringxx.com\/wptemplatekits\/newjuana\/wp-content\/uploads\/sites\/15\/2022\/03\/Blog-Header-Image-800x519.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 233172,
+            "dimensions": [
+                1920,
+                1246
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/a-two-women-doing-shopping-8311880\/"
+        },
+        {
+            "filename": "Shop-Header-Image.jpg",
+            "thumbnail_url": "https:\/\/touringxx.com\/wptemplatekits\/newjuana\/wp-content\/uploads\/sites\/15\/2022\/03\/Shop-Header-Image-800x411.jpg",
+            "templates": [
+                {
+                    "source": "templates\/shop.json",
+                    "name": "Shop"
+                }
+            ],
+            "filesize": 90043,
+            "dimensions": [
+                1920,
+                987
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/women-walking-over-puddles-on-shore-10211524\/"
+        },
+        {
+            "filename": "Shop-Bottom-Image.jpg",
+            "thumbnail_url": "https:\/\/touringxx.com\/wptemplatekits\/newjuana\/wp-content\/uploads\/sites\/15\/2022\/03\/Shop-Bottom-Image-800x1057.jpg",
+            "templates": [
+                {
+                    "source": "templates\/shop.json",
+                    "name": "Shop"
+                }
+            ],
+            "filesize": 213165,
+            "dimensions": [
+                900,
+                1189
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/a-woman-in-white-dress-carrying-a-hand-drum-while-walking-on-the-grass-field-9118580\/"
+        },
+        {
+            "filename": "Logo.png",
+            "thumbnail_url": "https:\/\/touringxx.com\/wptemplatekits\/newjuana\/wp-content\/uploads\/sites\/15\/2022\/02\/Logo.png",
+            "templates": [
+                {
+                    "source": "templates\/header-section.json",
+                    "name": "Header Section"
+                }
+            ],
+            "filesize": 19122,
+            "dimensions": [
+                440,
+                190
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Logo-footer.png",
+            "thumbnail_url": "https:\/\/touringxx.com\/wptemplatekits\/newjuana\/wp-content\/uploads\/sites\/15\/2022\/02\/Logo-footer.png",
+            "templates": [
+                {
+                    "source": "templates\/footer-section.json",
+                    "name": "Footer Section"
+                }
+            ],
+            "filesize": 6115,
+            "dimensions": [
+                450,
+                194
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

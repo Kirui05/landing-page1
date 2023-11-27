@@ -1,0 +1,1981 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Influence - Influencer Marketing Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/1onestrong.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/influence.1onestrong.com\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/influence.1onestrong.com\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Influencer - Tab Section -01",
+            "screenshot": "screenshots\/influencer-tab-section-01.jpg",
+            "source": "templates\/influencer-tab-section-01.json",
+            "preview_url": "https:\/\/influence.1onestrong.com\/template-kit\/influencer-tab-01\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-product",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Influencer - Tab Section -02",
+            "screenshot": "screenshots\/influencer-tab-section-02.jpg",
+            "source": "templates\/influencer-tab-section-02.json",
+            "preview_url": "https:\/\/influence.1onestrong.com\/template-kit\/influencer-tab-02\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-product",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Influencer - Tab Section -03",
+            "screenshot": "screenshots\/influencer-tab-section-03.jpg",
+            "source": "templates\/influencer-tab-section-03.json",
+            "preview_url": "https:\/\/influence.1onestrong.com\/template-kit\/influencer-tab-03\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-product",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact form- Section - Metform",
+            "screenshot": "screenshots\/contact-form-section-metform.jpg",
+            "source": "templates\/contact-form-section-metform.json",
+            "preview_url": "https:\/\/influence.1onestrong.com\/template-kit\/contact-form-section-metform\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Newslatter- Section - Metform",
+            "screenshot": "screenshots\/newslatter-section-metform.jpg",
+            "source": "templates\/newslatter-section-metform.json",
+            "preview_url": "https:\/\/influence.1onestrong.com\/template-kit\/newslatter-section-metform\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/influence.1onestrong.com\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/influence.1onestrong.com\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Influencers",
+            "screenshot": "screenshots\/influencers.jpg",
+            "source": "templates\/influencers.json",
+            "preview_url": "https:\/\/influence.1onestrong.com\/template-kit\/influencers\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "How It Work",
+            "screenshot": "screenshots\/how-it-work.jpg",
+            "source": "templates\/how-it-work.json",
+            "preview_url": "https:\/\/influence.1onestrong.com\/template-kit\/how-it-work\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404",
+            "screenshot": "screenshots\/404.jpg",
+            "source": "templates\/404.json",
+            "preview_url": "https:\/\/influence.1onestrong.com\/template-kit\/404\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/influence.1onestrong.com\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/influence.1onestrong.com\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Testimonial",
+            "screenshot": "screenshots\/testimonial.jpg",
+            "source": "templates\/testimonial.json",
+            "preview_url": "https:\/\/influence.1onestrong.com\/template-kit\/testimonial\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Team",
+            "screenshot": "screenshots\/our-team.jpg",
+            "source": "templates\/our-team.json",
+            "preview_url": "https:\/\/influence.1onestrong.com\/template-kit\/our-team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/influence.1onestrong.com\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/influence.1onestrong.com\/template-kit\/single-post\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/influence.1onestrong.com\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.5.4",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "MetForm",
+            "version": "2.1.2",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Xl Tab",
+            "version": "1.2",
+            "file": "xl-tab\/index.php",
+            "author": "Ashraf"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.5.6",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "logo.png",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/logo.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 5055,
+            "dimensions": [
+                541,
+                90
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Group-7.png",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/Group-7-800x231.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 227969,
+            "dimensions": [
+                1920,
+                555
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/handsome-young-photographer-isolated-on-coloured-b-MAUB8RS"
+        },
+        {
+            "filename": "jp09.jpg",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/jp09-800x934.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 52498,
+            "dimensions": [
+                1300,
+                1518
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/handsome-young-photographer-isolated-on-coloured-b-MAUB8RS"
+        },
+        {
+            "filename": "influencer-1.jpg",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/influencer-1-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/influencer-tab-section-01.json",
+                    "name": "Influencer - Tab Section -01"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 75247,
+            "dimensions": [
+                1100,
+                1100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cheerful-satisfied-unshaven-man-makes-frame-sign-w-W5YRXMC"
+        },
+        {
+            "filename": "icon008.png",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/icon008.png",
+            "templates": [
+                {
+                    "source": "templates\/influencer-tab-section-01.json",
+                    "name": "Influencer - Tab Section -01"
+                },
+                {
+                    "source": "templates\/influencer-tab-section-02.json",
+                    "name": "Influencer - Tab Section -02"
+                },
+                {
+                    "source": "templates\/influencer-tab-section-03.json",
+                    "name": "Influencer - Tab Section -03"
+                }
+            ],
+            "filesize": 9926,
+            "dimensions": [
+                95,
+                95
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon007.png",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/icon007.png",
+            "templates": [
+                {
+                    "source": "templates\/influencer-tab-section-01.json",
+                    "name": "Influencer - Tab Section -01"
+                },
+                {
+                    "source": "templates\/influencer-tab-section-02.json",
+                    "name": "Influencer - Tab Section -02"
+                },
+                {
+                    "source": "templates\/influencer-tab-section-03.json",
+                    "name": "Influencer - Tab Section -03"
+                }
+            ],
+            "filesize": 4071,
+            "dimensions": [
+                95,
+                95
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "influencer-4.jpg",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/influencer-4-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/influencer-tab-section-01.json",
+                    "name": "Influencer - Tab Section -01"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 65649,
+            "dimensions": [
+                1100,
+                1100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-girl-in-eyeglasses-smiling-and-showing-thumb-FK3FN4C"
+        },
+        {
+            "filename": "influencer-5.jpg",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/influencer-5-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/influencer-tab-section-01.json",
+                    "name": "Influencer - Tab Section -01"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 39916,
+            "dimensions": [
+                1100,
+                1100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/serious-confident-young-male-student-comes-home-af-MFKE5G8"
+        },
+        {
+            "filename": "influencer-7.jpg",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/influencer-7-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/influencer-tab-section-01.json",
+                    "name": "Influencer - Tab Section -01"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 50058,
+            "dimensions": [
+                1100,
+                1100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/fashion-studio-photo-of-lovely-brunette-woman-in-p-2XN5QZP"
+        },
+        {
+            "filename": "influencer-2.jpg",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/influencer-2-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/influencer-tab-section-02.json",
+                    "name": "Influencer - Tab Section -02"
+                }
+            ],
+            "filesize": 54409,
+            "dimensions": [
+                1100,
+                1100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/excited-african-american-teen-wearing-headphones-l-ZWHBBAZ"
+        },
+        {
+            "filename": "influencer-12.jpg",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/influencer-12-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/influencer-tab-section-02.json",
+                    "name": "Influencer - Tab Section -02"
+                }
+            ],
+            "filesize": 83123,
+            "dimensions": [
+                1100,
+                1100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-happy-arab-man-with-headphones-listening-to--LXZ88GL"
+        },
+        {
+            "filename": "influencer-3.jpg",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/influencer-3-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/influencer-tab-section-02.json",
+                    "name": "Influencer - Tab Section -02"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 88551,
+            "dimensions": [
+                1100,
+                1100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/attractive-bearded-man-in-casual-outfit-listening--87YPDPC"
+        },
+        {
+            "filename": "influencer-10.jpg",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/influencer-10-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/influencer-tab-section-02.json",
+                    "name": "Influencer - Tab Section -02"
+                },
+                {
+                    "source": "templates\/influencer-tab-section-03.json",
+                    "name": "Influencer - Tab Section -03"
+                }
+            ],
+            "filesize": 54278,
+            "dimensions": [
+                1100,
+                1100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/pretty-woman-in-straw-hat-holding-retro-camera-on--4LKA8ZQ"
+        },
+        {
+            "filename": "influencer-6.jpg",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/influencer-6-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/influencer-tab-section-03.json",
+                    "name": "Influencer - Tab Section -03"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 37522,
+            "dimensions": [
+                1100,
+                1100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/inside-portrait-of-confident-young-man-in-white-cl-3PVKGN2"
+        },
+        {
+            "filename": "influencer-11.jpg",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/influencer-11-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/influencer-tab-section-03.json",
+                    "name": "Influencer - Tab Section -03"
+                }
+            ],
+            "filesize": 52400,
+            "dimensions": [
+                1100,
+                1100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-girl-showing-peace-sign-while-taking-selfie--G8GK3FE"
+        },
+        {
+            "filename": "influencer-9.jpg",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/influencer-9-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/influencer-tab-section-03.json",
+                    "name": "Influencer - Tab Section -03"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 76699,
+            "dimensions": [
+                1100,
+                1100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/headshot-of-pleased-hipster-has-satisfied-expressi-9F3V7HY"
+        },
+        {
+            "filename": "Bg01.png",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/Bg01.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 113844,
+            "dimensions": [
+                2095,
+                1606
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "hero01.png",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/hero01.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 244607,
+            "dimensions": [
+                642,
+                1162
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-cheerful-woman-stands-with-crossed-arms-and--A23QFK3"
+        },
+        {
+            "filename": "hero02.png",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/hero02.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 358184,
+            "dimensions": [
+                642,
+                1162
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cheerful-handsome-caucasian-guy-smiles-happily-has-QDZGWMN"
+        },
+        {
+            "filename": "icon05.png",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/icon05.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 12575,
+            "dimensions": [
+                399,
+                399
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon04.png",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/icon04.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 13209,
+            "dimensions": [
+                399,
+                399
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon03.png",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/icon03.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 13028,
+            "dimensions": [
+                399,
+                399
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon001.png",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/icon001.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3279,
+            "dimensions": [
+                110,
+                114
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/20-influencer-icons-line-VW6FPD"
+        },
+        {
+            "filename": "icon004.png",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/icon004.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2869,
+            "dimensions": [
+                110,
+                114
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/20-influencer-icons-line-VW6FPD"
+        },
+        {
+            "filename": "icon005.png",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/icon005.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3537,
+            "dimensions": [
+                111,
+                114
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/shipping-logistics-icon-pack-QBHH5PU"
+        },
+        {
+            "filename": "icon006.png",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/icon006.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 5060,
+            "dimensions": [
+                110,
+                114
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/shipping-logistics-icon-pack-QBHH5PU"
+        },
+        {
+            "filename": "icon003.png",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/icon003.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3654,
+            "dimensions": [
+                110,
+                114
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/shipping-logistics-icon-pack-QBHH5PU"
+        },
+        {
+            "filename": "icon002.png",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/icon002.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3131,
+            "dimensions": [
+                110,
+                114
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/shipping-logistics-icon-pack-QBHH5PU"
+        },
+        {
+            "filename": "Bg.jpg",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/Bg.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 70220,
+            "dimensions": [
+                1440,
+                906
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "jp01.jpg",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/jp01-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 721178,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/beauty-vlogger-talking-to-camera-CRL6QJ7"
+        },
+        {
+            "filename": "border01.png",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/border01-800x500.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/influencers.json",
+                    "name": "Influencers"
+                },
+                {
+                    "source": "templates\/how-it-work.json",
+                    "name": "How It Work"
+                },
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 65842,
+            "dimensions": [
+                1960,
+                1225
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "jp02.jpg",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/jp02-800x318.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/influencers.json",
+                    "name": "Influencers"
+                }
+            ],
+            "filesize": 37195,
+            "dimensions": [
+                1920,
+                764
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/attractive-female-in-blue-dress-with-blonde-hair-p-G85YWEF"
+        },
+        {
+            "filename": "jp03.jpg",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/jp03-800x1203.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/influencers.json",
+                    "name": "Influencers"
+                }
+            ],
+            "filesize": 46477,
+            "dimensions": [
+                1000,
+                1504
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/attractive-female-in-blue-dress-with-blonde-hair-p-G85YWEF"
+        },
+        {
+            "filename": "brand-1.png",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/brand-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/influencers.json",
+                    "name": "Influencers"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 40497,
+            "dimensions": [
+                232,
+                232
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "brand-4.png",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/brand-4.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 4742,
+            "dimensions": [
+                231,
+                231
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "brand-3.png",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/brand-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 10316,
+            "dimensions": [
+                231,
+                231
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "brand-2.png",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/brand-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 5936,
+            "dimensions": [
+                231,
+                231
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "jp04.jpg",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/jp04-800x465.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/influencers.json",
+                    "name": "Influencers"
+                },
+                {
+                    "source": "templates\/how-it-work.json",
+                    "name": "How It Work"
+                }
+            ],
+            "filesize": 73996,
+            "dimensions": [
+                1920,
+                1116
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/tayang-ad-manager-admin-dashboard-ui-template-RNSB6ZC"
+        },
+        {
+            "filename": "Group-191.png",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/Group-191.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/influencers.json",
+                    "name": "Influencers"
+                },
+                {
+                    "source": "templates\/how-it-work.json",
+                    "name": "How It Work"
+                }
+            ],
+            "filesize": 8717,
+            "dimensions": [
+                167,
+                480
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "jp05.png",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/jp05-800x465.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/influencers.json",
+                    "name": "Influencers"
+                },
+                {
+                    "source": "templates\/how-it-work.json",
+                    "name": "How It Work"
+                }
+            ],
+            "filesize": 68744,
+            "dimensions": [
+                1920,
+                1116
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/tayang-ad-manager-admin-dashboard-ui-template-RNSB6ZC"
+        },
+        {
+            "filename": "Group-194.png",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/Group-194.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/influencers.json",
+                    "name": "Influencers"
+                },
+                {
+                    "source": "templates\/how-it-work.json",
+                    "name": "How It Work"
+                }
+            ],
+            "filesize": 8713,
+            "dimensions": [
+                167,
+                480
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "jp06.png",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/jp06-800x465.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/influencers.json",
+                    "name": "Influencers"
+                },
+                {
+                    "source": "templates\/how-it-work.json",
+                    "name": "How It Work"
+                }
+            ],
+            "filesize": 51943,
+            "dimensions": [
+                1920,
+                1116
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/tayang-ad-manager-admin-dashboard-ui-template-RNSB6ZC"
+        },
+        {
+            "filename": "jp07.png",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/jp07-800x532.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/influencers.json",
+                    "name": "Influencers"
+                },
+                {
+                    "source": "templates\/how-it-work.json",
+                    "name": "How It Work"
+                }
+            ],
+            "filesize": 64944,
+            "dimensions": [
+                1920,
+                1276
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/tayang-ad-manager-admin-dashboard-ui-template-RNSB6ZC"
+        },
+        {
+            "filename": "Group-3.png",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/Group-3-800x643.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 15262,
+            "dimensions": [
+                982,
+                789
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Group-4.png",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/Group-4-800x643.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 15263,
+            "dimensions": [
+                982,
+                789
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Group-5.png",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/Group-5-800x643.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 15261,
+            "dimensions": [
+                982,
+                789
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Group-6.png",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/Group-6-800x643.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 15261,
+            "dimensions": [
+                982,
+                789
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Union-11.png",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/Union-11-800x231.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/influencers.json",
+                    "name": "Influencers"
+                },
+                {
+                    "source": "templates\/how-it-work.json",
+                    "name": "How It Work"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 26383,
+            "dimensions": [
+                1920,
+                555
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Union-12.png",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/Union-12-800x292.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/influencers.json",
+                    "name": "Influencers"
+                },
+                {
+                    "source": "templates\/how-it-work.json",
+                    "name": "How It Work"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 34985,
+            "dimensions": [
+                1921,
+                701
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Union-15.png",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/Union-15.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/influencers.json",
+                    "name": "Influencers"
+                },
+                {
+                    "source": "templates\/how-it-work.json",
+                    "name": "How It Work"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 15560,
+            "dimensions": [
+                539,
+                832
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon09.png",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/icon09-800x741.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/influencers.json",
+                    "name": "Influencers"
+                },
+                {
+                    "source": "templates\/how-it-work.json",
+                    "name": "How It Work"
+                },
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 279207,
+            "dimensions": [
+                1166,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-beautiful-indian-woman-vlogging-against-brow-6FGPYLW"
+        },
+        {
+            "filename": "jp012.jpg",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/jp012-800x1448.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 79664,
+            "dimensions": [
+                867,
+                1569
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/brunette-girl-making-the-victory-sign-recording-a--MG3JZKG"
+        },
+        {
+            "filename": "jp014.jpg",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/jp014-800x1448.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 36132,
+            "dimensions": [
+                867,
+                1569
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/remote-coaching-smiling-female-yoga-instructor-rec-AAKRUA3"
+        },
+        {
+            "filename": "jp013.jpg",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/jp013-800x1448.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 55236,
+            "dimensions": [
+                867,
+                1569
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-girl-showing-peace-sign-while-taking-selfie--G8GK3FE"
+        },
+        {
+            "filename": "jp015.jpg",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/jp015-800x1448.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 81735,
+            "dimensions": [
+                867,
+                1569
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/online-instruction-and-lesson-shooting-about-furni-WN2U7SG"
+        },
+        {
+            "filename": "brandlog01.png",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/brandlog01.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 19502,
+            "dimensions": [
+                508,
+                178
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/100-minimal-logos-premium-edition-R68V87"
+        },
+        {
+            "filename": "brandlog02.png",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/brandlog02.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 24804,
+            "dimensions": [
+                509,
+                177
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/100-minimal-logos-premium-edition-R68V87"
+        },
+        {
+            "filename": "brandlog03.png",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/brandlog03.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 17196,
+            "dimensions": [
+                509,
+                178
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/100-minimal-logos-premium-edition-R68V87"
+        },
+        {
+            "filename": "brandlog04.png",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/brandlog04.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 16966,
+            "dimensions": [
+                509,
+                178
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/100-minimal-logos-premium-edition-R68V87"
+        },
+        {
+            "filename": "brandlog05.png",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/brandlog05.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 17586,
+            "dimensions": [
+                508,
+                177
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/100-minimal-logos-premium-edition-R68V87"
+        },
+        {
+            "filename": "brandlog06.png",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/brandlog06.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 21637,
+            "dimensions": [
+                509,
+                178
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/100-minimal-logos-premium-edition-R68V87"
+        },
+        {
+            "filename": "influencer-8.jpg",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/influencer-8-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 52830,
+            "dimensions": [
+                1100,
+                1100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/beautiful-happy-girl-in-jacket-smiling-and-looking-5VPYMTR"
+        },
+        {
+            "filename": "icon013.png",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/icon013.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/how-it-work.json",
+                    "name": "How It Work"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 211270,
+            "dimensions": [
+                720,
+                914
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/remote-work-search-information-writing-blog-and-su-GDY5R8D"
+        },
+        {
+            "filename": "icon012.png",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/icon012-800x784.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/how-it-work.json",
+                    "name": "How It Work"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 263485,
+            "dimensions": [
+                933,
+                914
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/beautiful-blonde-woman-in-90s-sport-suit-with-bino-NXGQ5SL"
+        },
+        {
+            "filename": "icon014.png",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/icon014-800x696.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/how-it-work.json",
+                    "name": "How It Work"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 358349,
+            "dimensions": [
+                1051,
+                914
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/announcement-concept-cheerful-black-woman-shouting-QGTUF4C"
+        },
+        {
+            "filename": "icon010.png",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/icon010.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 221434,
+            "dimensions": [
+                493,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/vlogger-greeting-the-audience-MVDNBCE"
+        },
+        {
+            "filename": "BG-06.png",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/BG-06-800x520.png",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 124047,
+            "dimensions": [
+                1899,
+                1235
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon011.png",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/icon011-800x670.png",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 269332,
+            "dimensions": [
+                1091,
+                914
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/beautiful-blonde-woman-in-90s-sport-suit-with-bino-NXGQ5SL"
+        },
+        {
+            "filename": "Union-16.png",
+            "thumbnail_url": "http:\/\/influence.1onestrong.com\/wp-content\/uploads\/sites\/13\/2022\/03\/Union-16.png",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 11503,
+            "dimensions": [
+                539,
+                515
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

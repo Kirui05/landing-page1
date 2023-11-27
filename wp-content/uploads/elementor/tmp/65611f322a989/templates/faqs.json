@@ -1,0 +1,1220 @@
+{
+    "version": "0.4",
+    "title": "FAQS",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "80b8ce1",
+            "settings": {
+                "content_width": {
+                    "unit": "px",
+                    "size": 700,
+                    "sizes": []
+                },
+                "height": "min-height",
+                "background_background": "classic",
+                "__globals__": {
+                    "background_color": "globals\/colors?id=6073bbc"
+                },
+                "custom_height": {
+                    "unit": "px",
+                    "size": 440,
+                    "sizes": []
+                }
+            },
+            "elements": [
+                {
+                    "id": "5fbed88e",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "12eaaf7a",
+                            "settings": {
+                                "title": "Here you will find the",
+                                "header_size": "h3",
+                                "align": "center",
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=a36e03f",
+                                    "typography_typography": "globals\/typography?id=secondary"
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "-8",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "24f1c3f5",
+                            "settings": {
+                                "title": "Frequently Asked Questions",
+                                "align": "center",
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=primary",
+                                    "typography_typography": "globals\/typography?id=8f62c66"
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "-6",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "6c2fa7a0",
+                            "settings": {
+                                "width": {
+                                    "unit": "px",
+                                    "size": 134,
+                                    "sizes": []
+                                },
+                                "width_tablet": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "align": "center",
+                                "text": "Divider",
+                                "gap": {
+                                    "unit": "px",
+                                    "size": 2,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "color": "globals\/colors?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "divider",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "7f8db9a3",
+            "settings": {
+                "content_width": {
+                    "unit": "px",
+                    "size": 900,
+                    "sizes": []
+                },
+                "gap": "no",
+                "padding": {
+                    "unit": "px",
+                    "top": "120",
+                    "right": "0",
+                    "bottom": "80",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "120",
+                    "right": "10",
+                    "bottom": "50",
+                    "left": "10",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "7278861",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "bd2ceb0",
+                            "settings": {
+                                "structure": "20"
+                            },
+                            "elements": [
+                                {
+                                    "id": "50e1d76c",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": 5.852
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "39c191aa",
+                                            "settings": {
+                                                "title": "Q",
+                                                "__globals__": {
+                                                    "typography_typography": "globals\/typography?id=8f62c66"
+                                                },
+                                                "align_mobile": "center"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "66bbae43",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": 94.148,
+                                        "content_position": "center"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "5086f870",
+                                            "settings": {
+                                                "title": "Derit in voluptate veloremp ipsum  thore eu fugiat nulla parixcep teureli sint occacupidatat non proideulp?",
+                                                "header_size": "h5",
+                                                "align_mobile": "center"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "6c550fef",
+                            "settings": {
+                                "structure": "20"
+                            },
+                            "elements": [
+                                {
+                                    "id": "4d66ff40",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": 5.852
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "4acb3bc9",
+                                            "settings": {
+                                                "title": "A",
+                                                "__globals__": {
+                                                    "typography_typography": "globals\/typography?id=8f62c66"
+                                                },
+                                                "align_mobile": "center"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "7476418f",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": 94.148,
+                                        "content_position": "center",
+                                        "margin": {
+                                            "unit": "px",
+                                            "top": "20",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "367ce508",
+                                            "settings": {
+                                                "editor": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt utore mag aliqua. Utas enim ad minim veniam, quis nostrud exerci tation ullamcoboris nisi ut aliquip ex eao consequat. Duis aurure dolora derit in voluptate velHere you will find thore eu fugiat nulla parixcep teureli sint occacupidatat nooideulpa quicia.<\/p><p>Saeut perspitis unde omnis iste natus error sit voluptatem accusantium doloremque laudarem aperiam, eaque ipsa quab illitatis e t quasi architecto beatae vitae dicta sunt explicabo. Nemio es nimluptatem quia voluptas sit asp na tur odit aut fugit, sed quia conse queun aliquip ex ea com modo conseaute irure dolor in reprehenderit in voluptate.<\/p>",
+                                                "align_mobile": "center"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "c9c0728",
+                            "settings": {
+                                "structure": "20"
+                            },
+                            "elements": [
+                                {
+                                    "id": "d604b75",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": 5.852
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "5895b8ba",
+                                            "settings": {
+                                                "title": "Q",
+                                                "__globals__": {
+                                                    "typography_typography": "globals\/typography?id=8f62c66"
+                                                },
+                                                "align_mobile": "center"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "40aca798",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": 94.148,
+                                        "content_position": "center"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "16dc8bc0",
+                                            "settings": {
+                                                "title": "Euab illitatis e t quasi architecto beatae vitae dicta sunt explicabo. Nemio es nimluptatem quia voluptas sit aspa\nPonim veniam, quis nostrud exercitation ullamcoboris nisi ut aliquip ex eao?",
+                                                "header_size": "h5",
+                                                "align_mobile": "center"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "2103c849",
+                            "settings": {
+                                "structure": "20"
+                            },
+                            "elements": [
+                                {
+                                    "id": "231b7a46",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": 5.852
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "52a7c921",
+                                            "settings": {
+                                                "title": "A",
+                                                "__globals__": {
+                                                    "typography_typography": "globals\/typography?id=8f62c66"
+                                                },
+                                                "align_mobile": "center"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "7ec22603",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": 94.148,
+                                        "content_position": "center",
+                                        "margin": {
+                                            "unit": "px",
+                                            "top": "20",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "2f891676",
+                                            "settings": {
+                                                "editor": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt utore mag aliqua. Utas enim ad minim veniam, quis nostrud exerci tation ullamcoboris nisi ut aliquip ex eao consequat. Duis aurure dolora derit in voluptate velHere you will find thore eu fugiat nulla parixcep teureli sint occacupidatat nooideulpa quicia.<\/p><p>Saeut perspitis unde omnis iste natus error sit voluptatem accusantium doloremque laudarem aperiam, eaque ipsa quab illitatis e t quasi architecto beatae vitae dicta sunt explicabo. Nemio es nimluptatem quia voluptas sit asp na tur odit aut fugit, sed quia conse queun aliquip ex ea com modo conseaute irure dolor in reprehenderit in voluptate.<\/p>",
+                                                "align_mobile": "center"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "2dbe9621",
+                            "settings": {
+                                "structure": "20"
+                            },
+                            "elements": [
+                                {
+                                    "id": "8874332",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": 5.852
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "5337bb7e",
+                                            "settings": {
+                                                "title": "Q",
+                                                "__globals__": {
+                                                    "typography_typography": "globals\/typography?id=8f62c66"
+                                                },
+                                                "align_mobile": "center"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "1e92c14b",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": 94.148,
+                                        "content_position": "center"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "710d3efd",
+                                            "settings": {
+                                                "title": "Euab illitatis e t quasi architecto beatae vitae dicta sunt explicabo. Nemio es nimluptatem quia voluptas sit aspa\nPonim veniam, quis nostrud exercitation ullamcoboris nisi ut aliquip ex eao?",
+                                                "header_size": "h5",
+                                                "align_mobile": "center"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "344d28c4",
+                            "settings": {
+                                "structure": "20"
+                            },
+                            "elements": [
+                                {
+                                    "id": "3e363cd8",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": 5.852
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "3c6490c0",
+                                            "settings": {
+                                                "title": "A",
+                                                "__globals__": {
+                                                    "typography_typography": "globals\/typography?id=8f62c66"
+                                                },
+                                                "align_mobile": "center"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "39156f46",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": 94.148,
+                                        "content_position": "center",
+                                        "margin": {
+                                            "unit": "px",
+                                            "top": "20",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "79834090",
+                                            "settings": {
+                                                "editor": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt utore mag aliqua. Utas enim ad minim veniam, quis nostrud exerci tation ullamcoboris nisi ut aliquip ex eao consequat. Duis aurure dolora derit in voluptate velHere you will find thore eu fugiat nulla parixcep teureli sint occacupidatat nooideulpa quicia.<\/p><p>Saeut perspitis unde omnis iste natus error sit voluptatem accusantium doloremque laudarem aperiam, eaque ipsa quab illitatis e t quasi architecto beatae vitae dicta sunt explicabo. Nemio es nimluptatem quia voluptas sit asp na tur odit aut fugit, sed quia conse queun aliquip ex ea com modo conseaute irure dolor in reprehenderit in voluptate.<\/p>",
+                                                "align_mobile": "center"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "1279828",
+            "settings": {
+                "height": "min-height",
+                "background_background": "classic",
+                "__globals__": {
+                    "background_color": "globals\/colors?id=6073bbc"
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "190",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "custom_height": {
+                    "unit": "px",
+                    "size": "",
+                    "sizes": []
+                }
+            },
+            "elements": [
+                {
+                    "id": "26692e48",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "67f31dfc",
+                            "settings": {
+                                "content_width": {
+                                    "unit": "px",
+                                    "size": 545,
+                                    "sizes": []
+                                },
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "-180",
+                                    "right": 0,
+                                    "bottom": "-120",
+                                    "left": 0,
+                                    "isLinked": false
+                                },
+                                "z_index": 2,
+                                "structure": "30"
+                            },
+                            "elements": [
+                                {
+                                    "id": "54aeae4e",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": 15,
+                                        "content_position": "top",
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "_inline_size_mobile": 10
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "4f60bb0f",
+                                            "settings": {
+                                                "space": {
+                                                    "unit": "px",
+                                                    "size": 223,
+                                                    "sizes": []
+                                                },
+                                                "_border_border": "solid",
+                                                "_border_width": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "1",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "__globals__": {
+                                                    "_border_color": "globals\/colors?id=primary"
+                                                },
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "55",
+                                                    "right": "25",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "_margin_mobile": {
+                                                    "unit": "px",
+                                                    "top": "50",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "spacer",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "138d8a28",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": 69.332,
+                                        "__globals__": {
+                                            "border_color": "globals\/colors?id=primary"
+                                        },
+                                        "_inline_size_mobile": 80
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "b1e5898",
+                                            "settings": {
+                                                "title": "Releated Video",
+                                                "align": "center",
+                                                "title_color": "#1A1A1A",
+                                                "__globals__": {
+                                                    "title_color": "globals\/colors?id=6073bbc",
+                                                    "typography_typography": "globals\/typography?id=secondary"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "5eec9d4f",
+                                            "settings": {
+                                                "video_type": "vimeo",
+                                                "youtube_url": "https:\/\/player.vimeo.com\/video\/523617562",
+                                                "vimeo_url": "https:\/\/player.vimeo.com\/video\/523617562",
+                                                "dailymotion_url": "https:\/\/www.dailymotion.com\/video\/x6tqhqb",
+                                                "vimeo_title": "",
+                                                "vimeo_portrait": "",
+                                                "vimeo_byline": "",
+                                                "aspect_ratio": "916",
+                                                "autoplay": "yes"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "video",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "2e94a11f",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": 15,
+                                        "content_position": "bottom",
+                                        "_inline_size_mobile": 10
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "5280f6df",
+                                            "settings": {
+                                                "space": {
+                                                    "unit": "px",
+                                                    "size": 223,
+                                                    "sizes": []
+                                                },
+                                                "_border_border": "solid",
+                                                "_border_width": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "1",
+                                                    "isLinked": false
+                                                },
+                                                "__globals__": {
+                                                    "_border_color": "globals\/colors?id=primary"
+                                                },
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "20",
+                                                    "isLinked": false
+                                                },
+                                                "_margin_mobile": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "spacer",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "50d37e14",
+            "settings": {
+                "content_width": {
+                    "unit": "px",
+                    "size": 900,
+                    "sizes": []
+                },
+                "gap": "no",
+                "background_background": "classic",
+                "padding": {
+                    "unit": "px",
+                    "top": "150",
+                    "right": "0",
+                    "bottom": "150",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "__globals__": {
+                    "background_color": "globals\/colors?id=3717ddf"
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "120",
+                    "right": "10",
+                    "bottom": "90",
+                    "left": "10",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "5be8d3e8",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "5d38bb6d",
+                            "settings": {
+                                "structure": "20",
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "80",
+                                    "right": 0,
+                                    "bottom": "0",
+                                    "left": 0,
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "6170b983",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": 5.852
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "f1f1a5a",
+                                            "settings": {
+                                                "title": "Q",
+                                                "__globals__": {
+                                                    "typography_typography": "globals\/typography?id=8f62c66"
+                                                },
+                                                "align_mobile": "center"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "2719cf8d",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": 94.148,
+                                        "content_position": "center"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "78d0b477",
+                                            "settings": {
+                                                "title": "Derit in voluptate veloremp ipsum  thore eu fugiat nulla parixcep teureli sint occacupidatat non proideulp?",
+                                                "header_size": "h5",
+                                                "align_mobile": "center"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "e6ed667",
+                            "settings": {
+                                "structure": "20"
+                            },
+                            "elements": [
+                                {
+                                    "id": "73b34433",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": 5.852
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "6f0449d2",
+                                            "settings": {
+                                                "title": "A",
+                                                "__globals__": {
+                                                    "typography_typography": "globals\/typography?id=8f62c66"
+                                                },
+                                                "align_mobile": "center"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "1b256bed",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": 94.148,
+                                        "content_position": "center",
+                                        "margin": {
+                                            "unit": "px",
+                                            "top": "20",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "11fccce7",
+                                            "settings": {
+                                                "editor": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt utore mag aliqua. Utas enim ad minim veniam, quis nostrud exerci tation ullamcoboris nisi ut aliquip ex eao consequat. Duis aurure dolora derit in voluptate velHere you will find thore eu fugiat nulla parixcep teureli sint occacupidatat nooideulpa quicia.<\/p><p>Saeut perspitis unde omnis iste natus error sit voluptatem accusantium doloremque laudarem aperiam, eaque ipsa quab illitatis e t quasi architecto beatae vitae dicta sunt explicabo. Nemio es nimluptatem quia voluptas sit asp na tur odit aut fugit, sed quia conse queun aliquip ex ea com modo conseaute irure dolor in reprehenderit in voluptate.<\/p>",
+                                                "align_mobile": "center"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "6c413324",
+                            "settings": {
+                                "structure": "20"
+                            },
+                            "elements": [
+                                {
+                                    "id": "67a52791",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": 5.852
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "1e30589c",
+                                            "settings": {
+                                                "title": "Q",
+                                                "__globals__": {
+                                                    "typography_typography": "globals\/typography?id=8f62c66"
+                                                },
+                                                "align_mobile": "center"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "13e508ac",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": 94.148,
+                                        "content_position": "center"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "6ad03987",
+                                            "settings": {
+                                                "title": "Euab illitatis e t quasi architecto beatae vitae dicta sunt explicabo. Nemio es nimluptatem quia voluptas sit aspa\nPonim veniam, quis nostrud exercitation ullamcoboris nisi ut aliquip ex eao?",
+                                                "header_size": "h5",
+                                                "align_mobile": "center"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "93a367e",
+                            "settings": {
+                                "structure": "20"
+                            },
+                            "elements": [
+                                {
+                                    "id": "2cfed2c5",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": 5.852
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "42285c26",
+                                            "settings": {
+                                                "title": "A",
+                                                "__globals__": {
+                                                    "typography_typography": "globals\/typography?id=8f62c66"
+                                                },
+                                                "align_mobile": "center"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "59106ee1",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": 94.148,
+                                        "content_position": "center",
+                                        "margin": {
+                                            "unit": "px",
+                                            "top": "20",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "46110ff0",
+                                            "settings": {
+                                                "editor": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt utore mag aliqua. Utas enim ad minim veniam, quis nostrud exerci tation ullamcoboris nisi ut aliquip ex eao consequat. Duis aurure dolora derit in voluptate velHere you will find thore eu fugiat nulla parixcep teureli sint occacupidatat nooideulpa quicia.<\/p><p>Saeut perspitis unde omnis iste natus error sit voluptatem accusantium doloremque laudarem aperiam, eaque ipsa quab illitatis e t quasi architecto beatae vitae dicta sunt explicabo. Nemio es nimluptatem quia voluptas sit asp na tur odit aut fugit, sed quia conse queun aliquip ex ea com modo conseaute irure dolor in reprehenderit in voluptate.<\/p>",
+                                                "align_mobile": "center"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "40c9df8a",
+            "settings": {
+                "height": "min-height",
+                "custom_height": {
+                    "unit": "px",
+                    "size": 476,
+                    "sizes": []
+                },
+                "background_background": "classic",
+                "background_image": {
+                    "url": "https:\/\/touringxx.com\/wptemplatekits\/juana\/wp-content\/uploads\/sites\/14\/2022\/03\/Juana-Header-Image.jpg",
+                    "id": 10323,
+                    "source": "library",
+                    "alt": ""
+                },
+                "background_size": "cover",
+                "background_position": "center center",
+                "background_attachment": "fixed",
+                "background_overlay_background": "classic",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.93,
+                    "sizes": []
+                },
+                "__globals__": {
+                    "background_overlay_color": "globals\/colors?id=6073bbc"
+                }
+            },
+            "elements": [
+                {
+                    "id": "1023df07",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "33705777",
+                            "settings": {
+                                "title": "Still Have More Questions?",
+                                "header_size": "h3",
+                                "align": "center",
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=3717ddf",
+                                    "typography_typography": ""
+                                },
+                                "title_color": "#F5F2ED",
+                                "typography_font_family": "Oranienbaum",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 69,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "100",
+                                "typography_text_transform": "uppercase",
+                                "typography_font_style": "normal",
+                                "typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1,
+                                    "sizes": []
+                                },
+                                "typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 0.8,
+                                    "sizes": []
+                                },
+                                "typography_word_spacing": {
+                                    "unit": "em",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "-10",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_margin_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "-15",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "25a591de",
+                            "settings": {
+                                "title": "Don't Worry We Can Help you!",
+                                "header_size": "h3",
+                                "align": "center",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "5",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "547bc1b",
+                            "settings": {
+                                "text": "Write Us",
+                                "align": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "hide_title": "yes",
+        "eael_ext_toc_title": "Table of Contents",
+        "template": "elementor_header_footer"
+    }
+}
